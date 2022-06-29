@@ -1,0 +1,21 @@
+body{
+    background-image:url('/images/1091429.jpg');
+    background-size: cover;
+}
+h1{
+    color:white;
+    text-shadow: 4px 4px rgb(20, 14, 14);
+    font-size:75px;
+}
+
+.graph{
+    background-color:#ccffff;
+    display:block;
+    margin:auto;
+    
+}
+button{
+    display:block;
+    margin-left:33%;
+   
+}
